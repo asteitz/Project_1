@@ -38,7 +38,7 @@ The following **required** functionality is completed:
 See Calculator Demo gif on Github
 Here's a walkthrough of implemented user stories:
 
-<img src='https://raw.github.iu.edu/jamfritz/Calculator/master/app/src/main/java/com/example/calculator/Calculator%20Demo.gif?token=GHSAT0AAAAAAAAAT6M5WZYLE4KCR2XN2GZKZH43KMA' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='https://github.com/asteitz/Project_1/blob/master/app/src/main/java/com/example/project_1/Calculator%20Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
