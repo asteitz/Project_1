@@ -15,8 +15,11 @@ We have integrated a scalable approach for the user to build up their computatio
 
 
 ## Functionality
-'**' indicates tested in GIF 
+'**' indicates tested in GIF  
 The following **required** functionality is completed:
+<br>
+<span style="font-size: smaller;"><strong> tested prior to change of C button as mentioned in the inscribe post made by Ashley Steitz </strong></span>
+
 
 * [4x8/3/2x4] User sees: 21.333 **
 * [4+8-3/2+4%*5] User sees: 10.7 **
@@ -38,17 +41,17 @@ The following **required** functionality is completed:
 See Calculator Demo gif on Github
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/asteitz/Project_1/blob/master/app/src/main/java/com/example/project_1/Calculator%20Demo.gif' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
+<img src='https://raw.github.iu.edu/jamfritz/Calculator/master/app/src/main/java/com/example/calculator/Calculator%20Demo.gif?token=GHSAT0AAAAAAAAAT6M5WZYLE4KCR2XN2GZKZH43KMA' title='Video Walkthrough' width='50%' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 UI Challenges:
-- Obtaining the rounded edges using ont he buttons 
+- Obtaining the rounded edges using ont he buttons
   - For me the challenge came from having the android:radius = "3dp" rather than the needed app:cornerRadius = "3dp" approach
 - Setting a style sheet to contain most of the styling factors to limit the code in the driver xml file
 - Figuring out the format of having a rowButton _LinearLayout_ to encapsulate the Buttons in the activity_main.xml to have the buttons sit next to eachother
-Describe any challenges encountered while building the app.
+  Describe any challenges encountered while building the app.
 
 BACKEND Challenges:
 - Implementing P.E.M.D.A.S into our original implementation of a stack approach
