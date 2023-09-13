@@ -235,7 +235,6 @@
             android:text="="
             android:textSize="30sp"/>
 
-        <!--   Closing Tags     -->
+<!--   Closing Tags     -->
     </LinearLayout>
 </LinearLayout>
-
