@@ -251,9 +251,9 @@
             app:cornerRadius = "3dp"
             android:layout_weight="0.5"
             android:text="."
-            android:textSize="22sp"/>
+            android:textSize="28sp"/>
 
-        <Button
+       <Button
             android:id="@+id/buttonEquals"
             style="@style/buttonSymbol"
             android:layout_margin="1dp"
@@ -265,7 +265,7 @@
         <!-- this will be the RIGHT button seen in the BOTTOM row-->
         <!-- the radius, margin, and displayed text is hardcoded here as well (values from pdf) -->
         <Button
-            android:id="@+id/buttonln"
+            android:id="@+id/buttonLn"
             style="@style/buttonSymbol"
             android:layout_margin="3dp"
             app:cornerRadius = "1dp"
