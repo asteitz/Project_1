@@ -253,7 +253,7 @@
             android:text="."
             android:textSize="28sp"/>
 
-       <Button
+        <Button
             android:id="@+id/buttonEquals"
             style="@style/buttonSymbol"
             android:layout_margin="1dp"

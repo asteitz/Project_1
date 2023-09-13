@@ -7,6 +7,7 @@ import android.os.Bundle
 import android.widget.*
 import java.util.*
 import android.util.Log;
+import com.example.project_1.R
 import kotlin.collections.ArrayList
 // Jacob Fritz and Ashley Steitz
 class MainActivity : AppCompatActivity() {
